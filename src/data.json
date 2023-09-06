@@ -1,0 +1,34 @@
+{
+    "project1": [
+      {
+        "image": "https://cdn.tgdd.vn/Files/2021/04/16/1343752/cam-nang-cho-corgi-nguon-goc-dac-diem-cach-nuoi-gia-ban-202206041207083467.jpg",
+        "title": "corgi-nguon-goc",
+        "subTitle": "chó cảnh"
+      },
+      {
+        "image": "https://file.hstatic.net/1000238938/file/alaska-beo_acef3fcb1cc541a79048f4bbafed71c8_grande.png",
+        "title": "corgi-nguon-goc",
+        "subTitle": "chó cảnh"
+      },
+      {
+        "image": "https://sieupet.com/sites/default/files/pictures/images/cho-corgi-4.jpg",
+        "title": "corgi-nguon-goc",
+        "subTitle": "chó cảnh"
+      }
+    ],
+    "project2": [
+      {
+        "title": "Mẫu 1",
+        "subTitle": "This is the first item's accordion body. It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow."
+      },
+      {
+        "title": "Mẫu 2",
+        "subTitle": "This is the second item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow."
+      },
+      {
+        "title": "Mẫu 3",
+        "subTitle": "Qui Lorem in eu consequat in qui elit labore mollit ex Qui Lorem in eu consequat in qui elit labore mollit exQui Lorem in eu consequat in qui elit labore mollit exQui Lorem in eu consequat in qui elit labore mollit exQui Lorem in eu consequat in qui elit labore mollit exQui Lorem in eu consequat in qui elit labore mollit ex"
+      }
+    ]
+  }
+  
